@@ -1,0 +1,13 @@
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\bin\Release\net48\ShutdownServer.exe.config
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\bin\Release\net48\ShutdownServer.exe
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\bin\Release\net48\ShutdownServer.pdb
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.AssemblyInfo.cs
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.csproj.Fody.CopyLocal.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.exe
+C:\Users\Micro\source\repos\ShutdownServer\ShutdownServer\obj\Release\net48\ShutdownServer.pdb
